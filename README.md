@@ -2,6 +2,7 @@ Preconditions:
 
 
 -Eclipse should be installed along with java.
+- Chrome Version should be v.78
 -Natural plugin should be installed in eclipse for beautify the code.
 
 Steps:
